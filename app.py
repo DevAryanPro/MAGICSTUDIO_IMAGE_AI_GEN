@@ -12,7 +12,7 @@ app = Flask(__name__)
 # Only ONE exact key is accepted: "kaiiddo-jkjbhu"
 # Set "MAGICSTUDIO_API_KEY" environment variable in Vercel: Settings > Environment Variables
 # ============================================================================
-API_KEY = os.environ.get('MAGICSTUDIO_API_KEY', 'kaiiddo-4fX9mL2nQpR8tUv7wAyBzC3dE5gHjK6l').strip()
+API_KEY = "kaiidoo-4fX9mL2nQpR8tUv7wAyBzC3dE5gHjK6l"
 
 # Constants for MagicStudio API
 BOUNDARY = "----WebKitFormBoundarycvwCppQ0clsuCAAN"
