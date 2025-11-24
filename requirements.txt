@@ -1,5 +1,1 @@
-# Copy to .env and set your API key
-# This file should NOT be committed to git!
-# In production, set this in Vercel Dashboard > Settings > Environment Variables
-
-MAGICSTUDIO_API_KEY=kaiiddo-jkjbhu
+Flask
